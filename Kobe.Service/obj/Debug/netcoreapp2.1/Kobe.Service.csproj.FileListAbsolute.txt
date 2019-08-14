@@ -1,0 +1,14 @@
+D:\Dayuser\Rohit Grover\Kobe\Kobe.Service\bin\Debug\netcoreapp2.1\Kobe.Service.deps.json
+D:\Dayuser\Rohit Grover\Kobe\Kobe.Service\bin\Debug\netcoreapp2.1\Kobe.Service.dll
+D:\Dayuser\Rohit Grover\Kobe\Kobe.Service\bin\Debug\netcoreapp2.1\Kobe.Service.pdb
+D:\Dayuser\Rohit Grover\Kobe\Kobe.Service\obj\Debug\netcoreapp2.1\Kobe.Service.csprojAssemblyReference.cache
+D:\Dayuser\Rohit Grover\Kobe\Kobe.Service\obj\Debug\netcoreapp2.1\Kobe.Service.csproj.CoreCompileInputs.cache
+D:\Dayuser\Rohit Grover\Kobe\Kobe.Service\obj\Debug\netcoreapp2.1\Kobe.Service.AssemblyInfoInputs.cache
+D:\Dayuser\Rohit Grover\Kobe\Kobe.Service\obj\Debug\netcoreapp2.1\Kobe.Service.AssemblyInfo.cs
+D:\Dayuser\Rohit Grover\Kobe\Kobe.Service\obj\Debug\netcoreapp2.1\Kobe.Service.dll
+D:\Dayuser\Rohit Grover\Kobe\Kobe.Service\obj\Debug\netcoreapp2.1\Kobe.Service.pdb
+D:\Dayuser\Rohit Grover\Kobe\Kobe.Service\bin\Debug\netcoreapp2.1\Kobe.Domain.dll
+D:\Dayuser\Rohit Grover\Kobe\Kobe.Service\bin\Debug\netcoreapp2.1\Kobe.Domain.pdb
+D:\Dayuser\Rohit Grover\Kobe\Kobe.Service\obj\Debug\netcoreapp2.1\Kobe.Service.csproj.CopyComplete
+D:\Dayuser\Rohit Grover\Kobe\Kobe.Service\bin\Debug\netcoreapp2.1\Kobe.Data.dll
+D:\Dayuser\Rohit Grover\Kobe\Kobe.Service\bin\Debug\netcoreapp2.1\Kobe.Data.pdb
