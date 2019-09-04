@@ -1,0 +1,9 @@
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Domain\bin\Debug\netcoreapp2.2\Kobe.Domain.deps.json
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Domain\bin\Debug\netcoreapp2.2\Kobe.Domain.dll
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Domain\bin\Debug\netcoreapp2.2\Kobe.Domain.pdb
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Domain\obj\Debug\netcoreapp2.2\Kobe.Domain.csproj.CoreCompileInputs.cache
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Domain\obj\Debug\netcoreapp2.2\Kobe.Domain.AssemblyInfoInputs.cache
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Domain\obj\Debug\netcoreapp2.2\Kobe.Domain.AssemblyInfo.cs
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Domain\obj\Debug\netcoreapp2.2\Kobe.Domain.dll
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Domain\obj\Debug\netcoreapp2.2\Kobe.Domain.pdb
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Domain\obj\Debug\netcoreapp2.2\Kobe.Domain.csprojAssemblyReference.cache

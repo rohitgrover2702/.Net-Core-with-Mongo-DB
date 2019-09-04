@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Service\\Kobe.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Data\\Kobe.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Data\\Kobe.Data.csproj",
+        "projectName": "Kobe.Data",
+        "projectPath": "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Data\\Kobe.Data.csproj",
+        "packagesPath": "C:\\Users\\rohitg\\.nuget\\packages\\",
+        "outputPath": "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rohitg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Domain\\Kobe.Domain.csproj": {
+                "projectPath": "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Domain\\Kobe.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "LinqKit": {
+              "target": "Package",
+              "version": "[1.1.16, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Domain\\Kobe.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Domain\\Kobe.Domain.csproj",
+        "projectName": "Kobe.Domain",
+        "projectPath": "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Domain\\Kobe.Domain.csproj",
+        "packagesPath": "C:\\Users\\rohitg\\.nuget\\packages\\",
+        "outputPath": "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rohitg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.9.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Service\\Kobe.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Service\\Kobe.Service.csproj",
+        "projectName": "Kobe.Service",
+        "projectPath": "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Service\\Kobe.Service.csproj",
+        "packagesPath": "C:\\Users\\rohitg\\.nuget\\packages\\",
+        "outputPath": "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rohitg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Data\\Kobe.Data.csproj": {
+                "projectPath": "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Data\\Kobe.Data.csproj"
+              },
+              "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Domain\\Kobe.Domain.csproj": {
+                "projectPath": "D:\\Dayuser\\Rohit Grover\\Official\\Project\\Source Code\\Kobe\\Kobe.Domain\\Kobe.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

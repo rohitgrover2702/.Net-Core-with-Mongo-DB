@@ -1,0 +1,16 @@
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\bin\Debug\netcoreapp2.2\Kobe.Common.deps.json
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\bin\Debug\netcoreapp2.2\Kobe.Common.dll
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\bin\Debug\netcoreapp2.2\Kobe.Common.pdb
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\bin\Debug\netcoreapp2.2\Kobe.Data.dll
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\bin\Debug\netcoreapp2.2\Kobe.Domain.dll
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\bin\Debug\netcoreapp2.2\Kobe.Data.pdb
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\bin\Debug\netcoreapp2.2\Kobe.Domain.pdb
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\obj\Debug\netcoreapp2.2\Kobe.Common.csprojAssemblyReference.cache
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\obj\Debug\netcoreapp2.2\Kobe.Common.csproj.CoreCompileInputs.cache
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\obj\Debug\netcoreapp2.2\Kobe.Common.AssemblyInfoInputs.cache
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\obj\Debug\netcoreapp2.2\Kobe.Common.AssemblyInfo.cs
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\obj\Debug\netcoreapp2.2\Kobe.Common.csproj.CopyComplete
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\obj\Debug\netcoreapp2.2\Kobe.Common.dll
+D:\Dayuser\Rohit Grover\Official\Project\Source Code\Kobe\Kobe.Common\obj\Debug\netcoreapp2.2\Kobe.Common.pdb
